@@ -1,0 +1,15 @@
+# Data manipulation libraries
+pandas==1.5.0
+numpy==1.23.3
+
+# Data visualization libraries
+matplotlib==3.6.0
+seaborn==0.12.0
+
+# Testing libraries
+pytest==7.1.2
+nbval==0.9.6
+
+# Linting and notebook conversion
+flake8==4.0.1
+nbconvert==7.0.0
