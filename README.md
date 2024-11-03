@@ -2,7 +2,8 @@
 
 This project demonstrates data manipulation tasks performed on the Iris dataset using a cloud-hosted Jupyter Notebook on Google Colab. The notebook includes data cleaning, transformation, and visualization techniques.
 
-
+### Link to the cloud-hosted notebook
+https://colab.research.google.com/drive/1aUabTa7cE115lhwugV5UN66RnDhHrRDw?usp=sharing
 ## Setup and Installation
 
 ### Prerequisites
@@ -99,3 +100,7 @@ Build: Installs dependencies specified in requirements.txt.
 Test: Runs tests using pytest and nbval to ensure the notebook runs without errors.
 Lint: Checks code quality using flake8 after converting notebooks to scripts.
 The pipeline is defined in .github/workflows/ci.yml.
+
+## Colab Screenshot
+![Screenshot1.png](Screenshot1.png)
+![Screenshot2.png](Screenshot2.png)
