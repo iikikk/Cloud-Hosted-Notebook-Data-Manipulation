@@ -60,7 +60,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install flake8 nbconvert
+          pip install flake8 flake8-nb
 
       - name: Convert Notebooks to Scripts
         run: |
