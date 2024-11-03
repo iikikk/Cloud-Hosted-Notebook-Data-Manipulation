@@ -11,6 +11,5 @@ pytest==7.1.2
 nbval==0.9.6
 
 # Linting and notebook conversion
-flake8
+flake8 flake8-nb
 nbconvert==7.0.0
-flake8-nb
