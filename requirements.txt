@@ -13,3 +13,4 @@ nbval==0.9.6
 # Linting and notebook conversion
 flake8==4.0.1
 nbconvert==7.0.0
+flake8-nb

@@ -68,4 +68,4 @@ jobs:
 
       - name: Lint Code
         run: |
-          flake8 --ignore=E501 *.py
+          flake8-nb --ignore=E501 *.ipynb
